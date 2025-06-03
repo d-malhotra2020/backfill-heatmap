@@ -37,3 +37,4 @@ Backfill commit log started
 2025-05-29T21:05:07 - Add feature
 2025-05-31T05:46:21 - Add feature
 2025-06-03T15:52:58 - Cleanup
+2025-06-03T11:41:30 - Improve logging
