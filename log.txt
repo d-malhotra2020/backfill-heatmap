@@ -335,3 +335,4 @@ Backfill commit log started
 2025-06-08T07:24:48 - Remove unused vars
 2025-06-10T12:56:17 - Improve logging
 2025-06-10T03:22:45 - Hotfix
+2025-06-10T06:40:38 - Update README
