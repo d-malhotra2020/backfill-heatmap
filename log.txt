@@ -118,3 +118,4 @@ Backfill commit log started
 2025-07-19T10:33:00 - Cleanup
 2025-07-21T05:11:22 - Cleanup
 2025-07-20T21:33:38 - Improve logging
+2025-07-21T11:25:59 - Remove unused vars
