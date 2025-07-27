@@ -415,3 +415,4 @@ Backfill commit log started
 2025-07-27T14:37:13 - Hotfix
 2025-07-27T11:24:21 - Add tests
 2025-07-27T16:49:29 - Add tests
+2025-07-27T12:06:20 - Remove unused vars
