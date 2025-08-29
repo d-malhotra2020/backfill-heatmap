@@ -179,3 +179,4 @@ Backfill commit log started
 2025-08-28T10:23:26 - Fix bug
 2025-08-28T04:59:51 - Add feature
 2025-08-28T14:10:54 - Add tests
+2025-08-29T02:29:03 - Update README
