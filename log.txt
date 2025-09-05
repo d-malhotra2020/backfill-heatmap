@@ -710,3 +710,4 @@ Backfill commit log started
 2025-09-05T08:20:26 - Add feature
 2025-09-05T06:05:39 - Add feature
 2025-09-05T09:38:45 - Improve logging
+2025-09-05T18:33:34 - Remove unused vars
